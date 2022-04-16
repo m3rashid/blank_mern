@@ -1,0 +1,14 @@
+.idea
+node_modules
+package.json
+yarn.lock
+README.md
+.DS_Store
+build
+.env
+.env.development
+.env.test
+.env.production
+.env.sample
+.env.example
+*.d.ts
